@@ -1,4 +1,6 @@
 .travis.yml:
+
 before_script:
-	- npm install
+	-npm install
+
 script: mocha
