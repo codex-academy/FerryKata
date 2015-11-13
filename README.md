@@ -37,7 +37,7 @@ Once you can load cars into the Ferry, look at other things the Ferry company is
 
 Code coverage tells you how much of your code is covered by your tests. Higher code coverage can mean your code has a good chance of being well-tested and contain few bugs.
 
-Let's use a tool called [Instabul](https://gotwarlost.github.io/istanbul/) to check our code coverage.
+Let's use a tool called [Instanbul](https://gotwarlost.github.io/istanbul/) to check our code coverage.
 
 ### Istanbul
 
