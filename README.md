@@ -33,6 +33,7 @@ Once you can load cars into the Ferry, look at other things the Ferry company is
 * giving a car 50% discount after three trips on the same ferry. The board method should return 'half price!';
 * giving a free trip after 7 trips on any Ferry. The board method should return 'you go free!';
 * offering a new service: paint jobs. A car on the ferry can change colour using the paint method.
+* letting people move between cars during the journey. People can switch cars using the move method.
 
 # License
 
