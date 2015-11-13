@@ -33,6 +33,28 @@ Once you can load cars into the Ferry, look at other things the Ferry company is
 * giving a car 50% discount after three trips on the same ferry. The board method should return 'half price!';
 * giving a free trip after 7 trips on any Ferry. The board method should return 'you go free!'
 
+## Code Coverage
+
+Code coverage tells you how much of your code is covered by your tests. Higher code coverage can mean your code has a good chance of being well-tested and contain few bugs.
+
+Let's use a tool called [Instabul](https://gotwarlost.github.io/istanbul/) to check our code coverage.
+
+### Istanbul
+
+Install Istanbul globally like this:
+
+```
+$ npm install -g istanbul
+```
+
+To run Istanbul's coverage calculation with your mocha tests, run:
+
+```
+istanbul cover _mocha
+```
+
+Instanbul generates a web page of the detailed results of its calculations to `coverage/lcov-report/index.html`. Look at this page to see which particular bits of your code aren't being covered by your tests.
+
 # License
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">codeX_ReleaseOneNarrativeWorkbook</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="project codeX" property="cc:attributionName" rel="cc:attributionURL">project codeX</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="http://projectcodex.co" rel="dct:source">http://projectcodex.co</a>.
