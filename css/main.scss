@@ -129,7 +129,7 @@ blockquote {
   border-radius: 0.25em;
 }
 
-code:not([class]) {
+code:not([class]), .highlighter-rouge {
   padding: 0.25em;
   background-color: #eee;
   border-radius: 0.25em;
@@ -157,22 +157,5 @@ img {
   main {
     float: right;
     width: 60%;
-  }
-}
-
-.single {
-  @media (min-width: 60em) {
-    .site-header,
-    .site-footer {
-      float: none;
-      clear: none;
-      width: auto;
-    }
-    main {
-      float: none;
-      width: auto;
-      margin-right: 25%;
-      margin-left: 25%;
-    }
   }
 }
