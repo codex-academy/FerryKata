@@ -8,6 +8,8 @@ layout: default
 
 Solve this Kata using TDD. Complete it in Javascript, Python, or Ruby. Once done in one Language in the allotted time try it out in another. Use flowcharts and diagrams to think through the required logic.
 
+A ferry is a boat that carries people and things for a short distance between two places - typically between islands and over rivers.
+
 ![Ferry](./img/ferry.jpg)
 [The Bolivar Gridge Ferry](https://en.wikipedia.org/wiki/Bolivar_Bridge)
 
