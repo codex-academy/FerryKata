@@ -7,7 +7,6 @@
 
 # Site settings
 title: Ferry Kata
-baseurl: /FerryKata
 
 # Build settings
 markdown: kramdown
