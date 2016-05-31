@@ -16,7 +16,7 @@ Install Istanbul globally like this:
 $ npm install -g istanbul
 ```
 
-To run Istanbul's coverage calculation with your mocha tests, run:
+To run Istanbul's coverage calculation with your Mocha tests, run:
 
 ```
 istanbul cover _mocha
