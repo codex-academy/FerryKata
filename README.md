@@ -2,7 +2,7 @@
 
 ## Instructions
 
-Solve the Kata below using TDD. Complete it in Javascript, Python, or Ruby. Once done in one Language in the alotted time try it out in another. Use flowcharts and diagrams to think through the required logic.
+Solve the Kata below using TDD. Complete it in JavaScript, Python, or Ruby. Once done in one Language in the alotted time try it out in another. Use flowcharts and diagrams to think through the required logic.
 
 # License
 
