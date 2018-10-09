@@ -10,7 +10,7 @@ This country's government would like to control the number of cars and people th
 
 To help them they need you to:
 
-* Create a `Car` class: the constructor should specify the **colour** and  the **number of passengers** in the car. It should have a `colour` and a `passengerCount` public read only properties.
+* Create a `Car` class: the constructor should specify the **colour** and  the **number of passengers** in the car. It should have `colour` and `passengerCount` public read only properties.
 
 * Create a `Ferry` class: the constructor should specify the **number of cars** allowed on the ferry and also **how many people** are allowed on the ferry. 
 
