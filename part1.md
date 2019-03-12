@@ -16,4 +16,4 @@ To help them they need you to:
 
 Cars are allowed onto the Ferry using the `board` method. If the ferry is not full yet the `board` method returns 'accepted'. If there are enough people or cars on the Ferry already, the `board` method should return 'rejected'.
 
-The Ferry class instance should keep track of the number of people and cars on the Ferry using the `people_count` and `car_count` properties.
+The Ferry class instance should keep track of the number of people and cars on the Ferry using the `people_count` and `car_count` properties. If you are doing this in Java create getters for `PeopleCount` and `CarCount` - no setters required.
